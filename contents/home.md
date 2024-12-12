@@ -1,7 +1,5 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 I am currently pursing  Computer science and Business at Durham university under the Natural Sciences programme. 
 
 
