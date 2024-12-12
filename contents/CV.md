@@ -1,2 +1,2 @@
 
-[Curriculum Vitae](Yoonsu_Chang_cv_2024.pdf)
+[Curriculum Vitae](장윤수_cv.pdf)
